@@ -7,6 +7,13 @@ Here are all the inputs and outputs shown in the videos-
 Input - 
 <img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/variabble_input.PNG?raw=true">
 
-Output - 
+Output - <br>
 <img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/variabble_output.PNG?raw=true">
+<br>
+<H5>2. Arithmetic Operators</H5>
+Input - 
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/arithhmetiic_input.PNG?raw=true">
 
+Output - <br>
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/arithhmetiic_output.PNG?raw=true">
+<br>
