@@ -66,3 +66,18 @@ Input -
 Output - <br>
 <img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/for_out.PNG?raw=true">
 <br>
+<H4>10. while Loop</H4>
+Input -
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/while_in.PNG?raw=true">
+
+Output - <br>
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/while_out.PNG?raw=true">
+<br>
+<H4>11. do..while Loop</H4>
+Input -
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/do_while_in.PNG?raw=true">
+
+Output - <br>
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/do_while_out.PNG?raw=true>
+<br>
+
