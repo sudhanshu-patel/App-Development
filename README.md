@@ -78,6 +78,6 @@ Input -
 <img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/do_while_in.PNG?raw=true">
 
 Output - <br>
-<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/do_while_out.PNG?raw=true>
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/do_while_out.PNG?raw=true">
 <br>
 
