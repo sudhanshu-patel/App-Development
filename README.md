@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/sudhanshu-patel/App-Development/main/favicon.ico">
 # Welcome to App Development Course using Flutter 2020!
 - Sudhanshu Patel
 
