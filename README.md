@@ -80,4 +80,10 @@ Input -
 Output - <br>
 <img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/do_while_out.PNG?raw=true">
 <br>
+<H4>12. Functions</H4>
+Input - 
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/function_in.PNG?raw=true">
 
+Output - <br>
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/funcion_out.PNG?raw=true">
+<br>
