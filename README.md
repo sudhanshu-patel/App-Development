@@ -87,3 +87,11 @@ Input -
 Output - <br>
 <img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/funcion_out.PNG?raw=true">
 <br>
+<H4>13. Functions with return type</H4>
+Input -
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/return_in.PNG?raw=true">
+
+Output - <br>
+<img src = "https://github.com/sudhanshu-patel/App-Development/blob/main/return_out.PNG?raw=true">
+<br>
+
